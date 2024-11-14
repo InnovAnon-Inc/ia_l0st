@@ -1,0 +1,8 @@
+aiofiles
+#email-validator
+ia_rest
+pymetasploit3
+python-multipart
+#rich
+#snek-sploit
+structlog
