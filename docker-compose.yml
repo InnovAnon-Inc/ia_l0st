@@ -5,9 +5,9 @@ services:
       context:        .
       tags:
         - innovanon/ia_l0st:latest
-        -           ia_l0st:latest
-        - innovanon/ia_l0st
-        -           ia_l0st
+    #    -           ia_l0st:latest
+    #    - innovanon/ia_l0st
+    #    -           ia_l0st
     image:            innovanon/ia_l0st
     restart:          no
     logging:
